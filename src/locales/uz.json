@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "en": "Inglizcha",
+    "uz": "o'zbekcha",
+    "ru": "Ruscha",
+    "home": "Bosh saxifa",
+    "about": "Biz haqimizda"
+  },
+  "main": {
+    "welcome": "Sizga {company} kompaniyasidan salomlar!",
+    "new_message": "habar yuq | bitta habar | {count} habarlar"
+  },
+  "about": {
+    "welcome": "Biz haqimizda saxifasiga hush kelibsiz!",
+    "context": "Lorem Ipsum bu shunchaki matbaa va matbaa sanoatining qo'pol matni. Lorem Ipsum 1500-yillardan boshlab, noma'lum printer galletni olib, uni namunalar kitobini tayyorlash uchun aralashtirib, sohaning standart qo'g'irchoq matni bo'lib kelgan. U nafaqat besh asrdan, balki elektron shaklda sakrashdan ham saqlanib qoldi va umuman o'zgarishsiz qoldi. 1960-yillarda Lorem Ipsum parchalarini o'z ichiga olgan Letraset varaqlari va yaqinda Aldus PageMaker singari Lorem Ipsum versiyalarini o'z ichiga olgan ish stoli nashriyot dasturi bilan ommalashgan."
+  }
+}
